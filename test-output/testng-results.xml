@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49350" started-at="2020-10-08T15:47:36 IST" finished-at="2020-10-08T15:48:25 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49350" started-at="2020-10-08T15:47:36 IST" finished-at="2020-10-08T15:48:25 IST">
+      <class name="com.atmecs.log4j.phpclass.phpclass">
+        <test-method status="PASS" signature="browserSetUp()[pri:0, instance:com.atmecs.log4j.phpclass.phpclass@4bbfb90a]" name="browserSetUp" is-config="true" duration-ms="38098" started-at="2020-10-08T15:47:36 IST" finished-at="2020-10-08T15:48:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method status="PASS" signature="runphptravels()[pri:0, instance:com.atmecs.log4j.phpclass.phpclass@4bbfb90a]" name="runphptravels" duration-ms="10331" started-at="2020-10-08T15:48:14 IST" finished-at="2020-10-08T15:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runphptravels -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.atmecs.log4j.phpclass.phpclass@4bbfb90a]" name="closeBrowser" is-config="true" duration-ms="844" started-at="2020-10-08T15:48:25 IST" finished-at="2020-10-08T15:48:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.atmecs.log4j.phpclass.phpclass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
